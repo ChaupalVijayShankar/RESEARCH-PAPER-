@@ -1,0 +1,10 @@
+# .env contains your API key — never commit this
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit secrets
+.streamlit/secrets.toml
